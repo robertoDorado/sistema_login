@@ -1,0 +1,1 @@
+Projeto que simula um sistema do governo que mensura com mais precisão a taxa de ocupação nos hospitais.
